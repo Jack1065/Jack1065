@@ -3,7 +3,7 @@ Hello!👋 My name is Jack Kurtz and I am a passionate software engineer skilled
 
 ## 💻 Technologies & Tools
 - **Languages**: Python, Javascript, C++, C, Java, SQL, PHP, R, Go 
-- **Frameworks**: React, NodeJS, Django, .NET, Express, ThreeJS,
+- **Frameworks**: React, NodeJS, Django, .NET, Express, ThreeJS
 - **Platforms & Tools**: Github, AWS, Gitlab, Azure, OpenAI, WordPress 
   
 ## 🧠Experience
