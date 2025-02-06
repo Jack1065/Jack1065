@@ -17,9 +17,11 @@ Hello!👋 My name is Jack Kurtz and I am a passionate software engineer skilled
  improved functionality.
 
 ### Project Manager for Recon Relocation
-- Traveled and managed crews of contracted workers on national decommissioning projects
-- Brokered used office furniture for multiple profit and non-profit organizations
-- Negotiated and facilitated agreements with scrap yards, ensuring efficient procurement and favorable terms for scrap materials.
+ - Coordinated teams of contracted workers on nationwide decommissioning projects, ensuring efficient project execution.
+ - Negotiated and facilitated the sale of pre-owned office furniture to various profit and non-profit organizations.
+ - Developed project plans and schedules, effectively managing logistics and resource allocation to meet client objectives.
+ - Trained and mentored new team members to uphold company standards and promote a culture of safety and efficiency on
+ project site
 
 ## 🏆 Accolades
 - Deans List 21-24
