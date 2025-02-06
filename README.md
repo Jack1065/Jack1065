@@ -9,10 +9,12 @@ Hello!👋 My name is Jack Kurtz and I am a passionate software engineer skilled
 ## 🧠Experience
 
 ### Web Development Intern at RootRiver Cowork
-- Implemented deployable changes in PHP backend which optimized website’s SEO score by 8%
-- Assisted in front-end development and design for client satisfaction
-- Implemented and oversaw EnGenius cloud network for client accounts
-- Assisted in the transition of the website's payment processing system and successfully implemented a new payment provider's API for enhanced functionality.
+ • Executed optimization of PHP backend architecture, resulting in an 8% improvement in website SEO performance.
+ • Contributed to front-end development and design initiatives, enhancing user interface and overall client satisfaction.
+ • Deployed EnGenius cloud network solutions across 40% of client infrastructures, significantly enhancing network
+ connectivity and operational stability with minimal downtime.
+ • Facilitated the seamless transition to a new payment provider’s API, optimizing the website’s payment processing system for
+ improved functionality.
 
 ### Project Manager for Recon Relocation
 - Traveled and managed crews of contracted workers on national decommissioning projects
