@@ -2,26 +2,21 @@
 Hello!👋 My name is Jack Kurtz and I am a passionate software engineer skilled in full-stack development, AI/ML development, and web development procedures. I am currently a senior pursuing my bachelors in Computer Science with a minor in web application development at the University of Wisconsin-Whitewater
 
 ## 💻 Technologies & Tools
-- **Languages**: Python, Javascript, C++, C, Java, SQL, PHP, R, Go 
+- **Languages**: Python, JavaScript, Java, PHP, C++, C, R, SQL
 - **Frameworks**: React, NodeJS, Django, .NET, Express, ThreeJS, Postman
-- **Platforms & Tools**: Github, AWS, Gitlab, Azure, OpenAI, WordPress 
+- **Platforms & Tools**: Github, AWS, Gitlab, Azure, OpenAI
   
 ## 🧠Experience
 
-### Web Development Intern at RootRiver Cowork
- - Executed optimization of PHP backend architecture, resulting in an 8% improvement in website SEO performance.
- - Contributed to front-end development and design initiatives, enhancing user interface and overall client satisfaction.
- - Deployed EnGenius cloud network solutions across 40% of client infrastructures, significantly enhancing network
- connectivity and operational stability with minimal downtime.
- - Facilitated the seamless transition to a new payment provider’s API, optimizing the website’s payment processing system for
- improved functionality.
-
-### Project Manager for Recon Relocation
- - Coordinated teams of contracted workers on nationwide decommissioning projects, ensuring efficient project execution.
- - Negotiated and facilitated the sale of pre-owned office furniture to various profit and non-profit organizations.
- - Developed project plans and schedules, effectively managing logistics and resource allocation to meet client objectives.
- - Trained and mentored new team members to uphold company standards and promote a culture of safety and efficiency on
- project site
+### Software Engineer Intern at RootRiver Co-work
+- Developed a robust CI/CD pipeline architecture using Azure DevOps, reducing build times by 35% and improving
+deployment frequency from bi-weekly to weekly, ensuring automated build, test, and deployment processes.
+- Executed optimization of PHP backend architecture, achieving a 15% increase in website load speed and an 8% improvement
+in website SEO performance.
+- Facilitated the seamless transition to a new payment provider’s API, reducing payment processing time and decreasing
+transaction failures, optimizing the website’s payment system for improved functionality.
+- Contributed to front-end development and design initiatives, implementing responsive design and accessibility features,
+resulting in a increase in user engagement and overall client satisfaction.
 
 ## 🏆 Accolades
 - Deans List 21-24
