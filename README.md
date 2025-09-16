@@ -1,5 +1,5 @@
 ## Welcome to Jack Kurtz' Github!
-Hello!👋 My name is Jack Kurtz and I am a passionate software engineer skilled in full-stack development, AI/ML development, and web development procedures. I am currently a senior pursuing my bachelors in Computer Science with a minor in web application development at the University of Wisconsin-Whitewater
+Hello!👋 My name is Jack Kurtz and I am a passionate software engineer skilled in full-stack development, AI/ML development, and web development procedures. I am currently pursuing my masters in data science at the University of Arizona.
 
 ## 💻 Technologies & Tools
 - **Languages**: Python, JavaScript, Java, PHP, C++, C, R, SQL
