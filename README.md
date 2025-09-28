@@ -8,12 +8,13 @@ Hello!👋 My name is Jack Kurtz and I am a passionate software engineer skilled
   
 ## 🧠Experience
 ### Software Developement Intern at Clinisys
-- Optimized PowerBI report load to render speed across all platform dashboards by 30%
-- Developed new unit tests for .NET Core backend services, increasing code coverage by 20% and enhancing overall application
-reliability
-- Implemented TOTP MFA for Azure ADB2C authentication, improving security for user logins and reducing unauthorized
-access incidents
-- Resolved multiple critical bugs in React front-end and developed new features to satisfy user story requirements
+- Engineered new features and services for SaaS LIMS and LMS healthcare applications, streamlining clinical workflows and
+  enhancing data accessibility for national healthcare providers
+- Optimized Power BI report load times, improving dashboard rendering speed across all platforms by 30%
+- Developed new unit tests for .NET Core backend services, increasing code coverage by 20% and improving overall application
+reliability.
+- Built and optimized front-end features in React and Redux with TypeScript, ensuring adherence to Figma design
+specifications and enhancing overall user experience
   
 ### Software Engineer Intern at RootRiver Co-work
 - Developed a robust CI/CD pipeline architecture using Azure DevOps, reducing build times by 35% and improving
