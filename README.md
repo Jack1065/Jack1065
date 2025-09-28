@@ -27,7 +27,7 @@ transaction failures, optimizing the website’s payment system for improved fun
 resulting in a increase in user engagement and overall client satisfaction.
 
 ## 🏆 Accolades
-- Deans List 21-24
+- Deans List 21-25
 - Glenn R. Davis Scholarship
 
 ## 📫 Contact Information
