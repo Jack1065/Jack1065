@@ -2,7 +2,7 @@
 Hello!👋 My name is Jack Kurtz and I am a passionate software engineer skilled in full-stack development, AI/ML development, and web development procedures. I am currently pursuing my masters in data science at the University of Arizona.
 
 ## 💻 Technologies & Tools
-- **Languages**: Python, JavaScript, Java, PHP, C++, C, R, SQL
+- **Languages**: Python, JavaScript, Java, PHP, C++, C, C#, R, SQL, TypeScript
 - **Frameworks**: React, NodeJS, Django, .NET, Express, ThreeJS, Postman
 - **Platforms & Tools**: Github, AWS, Gitlab, Azure, OpenAI
   
