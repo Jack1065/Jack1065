@@ -1,49 +1,91 @@
-## Welcome to Jack Kurtz' Github!
-Hello!👋 My name is Jack Kurtz and I am a passionate software engineer skilled in full-stack development, AI/ML development, and web development procedures. I am currently pursuing my masters in data science at the University of Arizona.
+# 👋 Welcome to Jack Kurtz' GitHub
 
-## 💻 Technologies & Tools
-- **Languages**: Python, JavaScript, Java, PHP, C++, C, C#, R, SQL, TypeScript
-- **Frameworks**: React, NodeJS, Django, .NET, Express, ThreeJS, Postman
-- **Platforms & Tools**: Github, AWS, Gitlab, Azure, OpenAI
-  
-## 🧠Experience
-### Software Developement Intern at Clinisys
-- Engineered new features and services for SaaS LIMS and LMS healthcare applications, streamlining clinical workflows and
-  enhancing data accessibility for national healthcare providers
-- Optimized Power BI report load times, improving dashboard rendering speed across all platforms by 30%
-- Developed new unit tests for .NET Core backend services, increasing code coverage by 20% and improving overall application
-reliability.
-- Built and optimized front-end features in React and Redux with TypeScript, ensuring adherence to Figma design
-specifications and enhancing overall user experience
-  
-### Software Engineer Intern at RootRiver Co-work
-- Developed a robust CI/CD pipeline architecture using Azure DevOps, reducing build times by 35% and improving
-deployment frequency from bi-weekly to weekly, ensuring automated build, test, and deployment processes.
-- Executed optimization of PHP backend architecture, achieving a 15% increase in website load speed and an 8% improvement
-in website SEO performance.
-- Facilitated the seamless transition to a new payment provider’s API, reducing payment processing time and decreasing
-transaction failures, optimizing the website’s payment system for improved functionality.
-- Contributed to front-end development and design initiatives, implementing responsive design and accessibility features,
-resulting in a increase in user engagement and overall client satisfaction.
+Hi there! I'm **Jack Kurtz**, a passionate **Software Engineer** and **Data Scientist in training** specializing in **full-stack development**, **AI/ML engineering**, and **data-driven web solutions**.  
 
-## 🏆 Accolades
-- Deans List 21-25
-- Glenn R. Davis Scholarship
+I’m currently pursuing my **Master of Science in Data Science** at the **University of Arizona**, where I continue to build my expertise in developing scalable, data-centric applications that bridge the gap between software and intelligent analytics.
 
-## 📫 Contact Information
-- **Email**: [Jkurtz354@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/jack-kurtz-b51a44240/]
-<!--
-**Jack1065/Jack1065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**University of Arizona** — *Tucson, AZ*  
+📘 *Master of Science in Data Science* — *Expected May 2027*  
+
+**University of Wisconsin–Whitewater** — *Whitewater, WI*  
+💻 *Bachelor of Science in Computer Science, Minor: Web Application Development* — *May 2025*  
+- **Honors:** Dean’s List (2021–2025), Glenn R. Davis Scholarship (2021)  
+- **Cumulative GPA:** 3.75  
+
+---
+
+## 💼 Professional Experience
+
+### **Software Development Intern — Clinisys**  
+*May 2025 – August 2025 · Tucson, AZ*  
+- Engineered new features and services for **SaaS LIMS/LMS healthcare applications**, streamlining clinical workflows and enhancing data accessibility for national healthcare providers.  
+- Optimized **Power BI** report load times, improving dashboard rendering speed across platforms by **30%**.  
+- Increased backend **.NET Core** code coverage by **20%** through new unit tests, improving reliability and maintainability.  
+- Built and optimized front-end features in **React** and **Redux** with **TypeScript**, adhering to Figma design specifications and improving overall user experience.  
+
+---
+
+### **Software Engineer Intern — Root River Co-Work**  
+*May 2023 – August 2024 · Racine, WI*  
+- Developed a robust **CI/CD pipeline** in **Jenkins**, reducing build times by **35%** and accelerating deployment cycles.  
+- Optimized **PHP** backend architecture, improving website load speed by **15%** and SEO performance by **8%**.  
+- Facilitated the integration of a new payment provider’s **API**, reducing transaction failures and improving processing efficiency.  
+- Tuned **Microsoft SQL Server** queries through execution plan analysis and restructuring, enhancing the performance of large-scale data pipelines.  
+
+---
+
+### **Project Manager — Recon Relocation**  
+*May 2018 – August 2022 · New Berlin, WI*  
+- Led cross-functional teams to coordinate **commercial relocation projects**, ensuring on-time delivery and client satisfaction.  
+- Managed project schedules, budgets, and resource allocation, improving operational efficiency and communication.  
+- Served as primary client liaison, maintaining strong relationships that drove repeat business and positive referrals.  
+
+---
+
+## 🧠 Projects
+
+### **Biomarker Classification Model — ResNet-34 | Python | TensorFlow | Keras**
+- Developed a **deep learning model** based on **ResNet-34** to classify **Glioblastoma biomarkers** in MRI imaging, achieving **92% accuracy**.  
+- Utilized the **TCGA-GBM dataset** from the NIH with annotated biomarkers, employing data augmentation (rotation, scaling, flipping) to improve model robustness.  
+- Evaluated model performance using **precision, recall, F1-score, and ROC-AUC**, demonstrating strong predictive reliability for clinical use.  
+
+---
+
+## 💻 Technical Skills
+
+**Languages:**  
+Python, JavaScript, Java, PHP, C++, C#, R, SQL, TypeScript  
+
+**Frameworks & Libraries:**  
+React, Node.js, Express.js, Django, .NET Core, Vue.js, Laravel, Tailwind CSS, TensorFlow, PyTorch, scikit-learn, Keras, NumPy, Pandas  
+
+**Tools & Platforms:**  
+AWS, Azure, Jenkins, GitHub, GitLab, Docker, Snowflake, MongoDB, PostgreSQL, Microsoft SQL Server, Power BI, Tableau, Hadoop (Hive, Spark), Postman, Jira, Linux  
+
+**Other Skills:**  
+CI/CD Pipelines, Big Data Analytics, ETL Workflows, Agile Methodologies, Web Design, SEO Optimization, PHI & HIPAA Compliance  
+
+---
+
+## 🏆 Honors & Accolades
+
+- 🥇 Dean’s List (2021–2025)  
+- 🎓 Glenn R. Davis Scholarship (2021)  
+
+---
+
+## 📫 Let’s Connect!
+
+- **Email:** [Jkurtz354@gmail.com](mailto:Jkurtz354@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/jack-kurtz-b51a44240](https://www.linkedin.com/in/jack-kurtz-b51a44240/)  
+- **GitHub:** [github.com/Jack1065](https://github.com/Jack1065)
+
+---
+
+✨ *I’m always excited to collaborate on impactful projects in AI, healthcare tech, and scalable web systems — feel free to reach out!*  
+
+
