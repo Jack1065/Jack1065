@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to <span style="color:#4F46E5;">Jack Kurtz</span>' GitHub</h1>
 
 <p align="center">
-  <b>Software Engineer</b> | <b>Data Scientist in Training</b> | <b>Full-Stack Developer</b><br>
+  <b>Software Engineer</b> | <b>Data Scientist</b> | <b>Full-Stack Developer</b><br>
   <i>Building intelligent, data-driven, and scalable solutions</i>
 </p>
 
@@ -13,7 +13,6 @@ Hello! I'm **Jack Kurtz**, a passionate **software engineer** and **data science
 
 I love creating high-impact software that blends **intelligent analytics**, **clean design**, and **robust architecture** — from healthcare applications to AI-driven research tools.  
 
-> 💡 “Great software isn’t just built — it’s engineered with empathy, curiosity, and precision.”
 
 ---
 
