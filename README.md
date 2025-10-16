@@ -1,91 +1,106 @@
-# 👋 Welcome to Jack Kurtz' GitHub
+<h1 align="center">👋 Welcome to <span style="color:#4F46E5;">Jack Kurtz</span>' GitHub</h1>
 
-Hi there! I'm **Jack Kurtz**, a passionate **Software Engineer** and **Data Scientist in training** specializing in **full-stack development**, **AI/ML engineering**, and **data-driven web solutions**.  
+<p align="center">
+  <b>Software Engineer</b> | <b>Data Scientist in Training</b> | <b>Full-Stack Developer</b><br>
+  <i>Building intelligent, data-driven, and scalable solutions</i>
+</p>
 
-I’m currently pursuing my **Master of Science in Data Science** at the **University of Arizona**, where I continue to build my expertise in developing scalable, data-centric applications that bridge the gap between software and intelligent analytics.
+---
+
+## 🧑‍💻 About Me
+
+Hello! I'm **Jack Kurtz**, a passionate **software engineer** and **data science graduate student** at the **University of Arizona**, with a background in **computer science and web application development**.  
+
+I love creating high-impact software that blends **intelligent analytics**, **clean design**, and **robust architecture** — from healthcare applications to AI-driven research tools.  
+
+> 💡 “Great software isn’t just built — it’s engineered with empathy, curiosity, and precision.”
 
 ---
 
 ## 🎓 Education
 
-**University of Arizona** — *Tucson, AZ*  
-📘 *Master of Science in Data Science* — *Expected May 2027*  
+📘 **University of Arizona** — *Tucson, AZ*  
+🎓 *Master of Science in Data Science* — *Expected May 2027*  
 
-**University of Wisconsin–Whitewater** — *Whitewater, WI*  
-💻 *Bachelor of Science in Computer Science, Minor: Web Application Development* — *May 2025*  
+💻 **University of Wisconsin–Whitewater** — *Whitewater, WI*  
+🧩 *Bachelor of Science in Computer Science, Minor in Web Application Development* — *May 2025*  
 - **Honors:** Dean’s List (2021–2025), Glenn R. Davis Scholarship (2021)  
-- **Cumulative GPA:** 3.75  
+- **GPA:** 3.75  
 
 ---
 
 ## 💼 Professional Experience
 
-### **Software Development Intern — Clinisys**  
+### 🧠 Software Development Intern — Clinisys  
 *May 2025 – August 2025 · Tucson, AZ*  
-- Engineered new features and services for **SaaS LIMS/LMS healthcare applications**, streamlining clinical workflows and enhancing data accessibility for national healthcare providers.  
-- Optimized **Power BI** report load times, improving dashboard rendering speed across platforms by **30%**.  
-- Increased backend **.NET Core** code coverage by **20%** through new unit tests, improving reliability and maintainability.  
-- Built and optimized front-end features in **React** and **Redux** with **TypeScript**, adhering to Figma design specifications and improving overall user experience.  
+- Engineered new features for **SaaS LIMS/LMS healthcare systems**, streamlining workflows for national healthcare providers.  
+- Optimized **Power BI** dashboards, reducing load times by **30%**.  
+- Increased backend **.NET Core** test coverage by **20%** through structured unit testing.  
+- Built **React + TypeScript** interfaces aligned with **Figma** designs to improve UX consistency.  
 
 ---
 
-### **Software Engineer Intern — Root River Co-Work**  
+### ⚙️ Software Engineer Intern — Root River Co-Work  
 *May 2023 – August 2024 · Racine, WI*  
-- Developed a robust **CI/CD pipeline** in **Jenkins**, reducing build times by **35%** and accelerating deployment cycles.  
-- Optimized **PHP** backend architecture, improving website load speed by **15%** and SEO performance by **8%**.  
-- Facilitated the integration of a new payment provider’s **API**, reducing transaction failures and improving processing efficiency.  
-- Tuned **Microsoft SQL Server** queries through execution plan analysis and restructuring, enhancing the performance of large-scale data pipelines.  
+- Developed a **CI/CD pipeline** in **Jenkins**, reducing build times by **35%**.  
+- Refactored **PHP** backend architecture, achieving a **15%** faster website load speed and **8%** SEO improvement.  
+- Integrated a new **payment provider API**, minimizing transaction failures and optimizing reliability.  
+- Tuned **SQL Server** queries for performance, improving data reporting throughput on large datasets.  
 
 ---
 
-### **Project Manager — Recon Relocation**  
+### 🧱 Project Manager — Recon Relocation  
 *May 2018 – August 2022 · New Berlin, WI*  
-- Led cross-functional teams to coordinate **commercial relocation projects**, ensuring on-time delivery and client satisfaction.  
-- Managed project schedules, budgets, and resource allocation, improving operational efficiency and communication.  
-- Served as primary client liaison, maintaining strong relationships that drove repeat business and positive referrals.  
+- Led cross-functional teams for **commercial relocation projects**, improving efficiency and client satisfaction.  
+- Managed project budgets, timelines, and resource allocation to reduce delays and enhance communication.  
 
 ---
 
-## 🧠 Projects
+## 🧩 Featured Project
 
-### **Biomarker Classification Model — ResNet-34 | Python | TensorFlow | Keras**
-- Developed a **deep learning model** based on **ResNet-34** to classify **Glioblastoma biomarkers** in MRI imaging, achieving **92% accuracy**.  
-- Utilized the **TCGA-GBM dataset** from the NIH with annotated biomarkers, employing data augmentation (rotation, scaling, flipping) to improve model robustness.  
-- Evaluated model performance using **precision, recall, F1-score, and ROC-AUC**, demonstrating strong predictive reliability for clinical use.  
+### 🧬 **Biomarker Classification Model**
+**Tech:** `Python` · `TensorFlow` · `Keras` · `ResNet-34`  
 
----
-
-## 💻 Technical Skills
-
-**Languages:**  
-Python, JavaScript, Java, PHP, C++, C#, R, SQL, TypeScript  
-
-**Frameworks & Libraries:**  
-React, Node.js, Express.js, Django, .NET Core, Vue.js, Laravel, Tailwind CSS, TensorFlow, PyTorch, scikit-learn, Keras, NumPy, Pandas  
-
-**Tools & Platforms:**  
-AWS, Azure, Jenkins, GitHub, GitLab, Docker, Snowflake, MongoDB, PostgreSQL, Microsoft SQL Server, Power BI, Tableau, Hadoop (Hive, Spark), Postman, Jira, Linux  
-
-**Other Skills:**  
-CI/CD Pipelines, Big Data Analytics, ETL Workflows, Agile Methodologies, Web Design, SEO Optimization, PHI & HIPAA Compliance  
+- Built a **deep learning classifier** to detect **Glioblastoma biomarkers** in MRI scans with **92% accuracy**.  
+- Utilized **TCGA-GBM** dataset with extensive **data augmentation** to improve robustness.  
+- Evaluated using **precision, recall, F1-score, and ROC-AUC**, demonstrating clinical-grade predictive reliability.  
 
 ---
 
-## 🏆 Honors & Accolades
+## 💻 Tech Stack
 
-- 🥇 Dean’s List (2021–2025)  
-- 🎓 Glenn R. Davis Scholarship (2021)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Language-TypeScript-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Language-Java-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Language-C%23-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Language-SQL-green?style=flat-square"/>
+</p>
+
+**Frameworks & Libraries**  
+`React` · `Node.js` · `Express` · `.NET Core` · `Django` · `Vue.js` · `Tailwind CSS` · `TensorFlow` · `PyTorch` · `scikit-learn`
+
+**Tools & Platforms**  
+`AWS` · `Azure` · `Docker` · `Jenkins` · `GitHub` · `GitLab` · `Snowflake` · `MongoDB` · `PostgreSQL` · `Tableau` · `Power BI`
+
+**Other Expertise**  
+`Big Data Analytics` · `ETL Workflows` · `Agile Development` · `SEO Optimization` · `Web Accessibility` · `PHI & HIPAA Compliance`
 
 ---
 
-## 📫 Let’s Connect!
+## 🏆 Honors & Achievements
 
-- **Email:** [Jkurtz354@gmail.com](mailto:Jkurtz354@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/jack-kurtz-b51a44240](https://www.linkedin.com/in/jack-kurtz-b51a44240/)  
-- **GitHub:** [github.com/Jack1065](https://github.com/Jack1065)
+🏅 **Dean’s List (2021–2025)**  
+🎓 **Glenn R. Davis Scholarship (2021)**  
+📊 **3.75 GPA** — Bachelor of Science in Computer Science  
 
 ---
 
-✨ *I’m always excited to collaborate on impactful projects in AI, healthcare tech, and scalable web systems — feel free to reach out!*  
+## 📫 Let’s Connect
 
-
+<p align="center">
+  <a href="mailto:Jkurtz354@gmail.com"><img src="https://img.shields.io/badge/Email-Jkurtz354%40gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/jack-kurtz-b51a44240/"><img src="https://img.shields.io/badge/LinkedIn-Jack%20Kurtz-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/Jack1065"><img src="https://img.shields.io/badge/GitHub-Jack1065-black?style=flat-square&logo=github"></a>
+</p>
