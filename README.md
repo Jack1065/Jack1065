@@ -41,10 +41,10 @@ I love creating high-impact software that blends **intelligent analytics**, **cl
 
 ### ⚙️ Software Engineer Intern — Root River Co-Work  
 *May 2023 – August 2024 · Racine, WI*  
-- Developed a **CI/CD pipeline** in **Jenkins**, reducing build times by **35%**.  
-- Refactored **PHP** backend architecture, achieving a **15%** faster website load speed and **8%** SEO improvement.  
-- Integrated a new **payment provider API**, minimizing transaction failures and optimizing reliability.  
-- Tuned **SQL Server** queries for performance, improving data reporting throughput on large datasets.  
+- Developed and deployed a scalable **API service** using **Azure Cloud** and DevOps pipelines, resulting in a **40% improvement in deployment efficiency**.  
+- Optimized **React and TypeScript frontend**, reducing bundle size by **30%** and improving page load speed by **35%**.  
+- Facilitated the seamless transition to a new **payment provider API**, reducing payment processing time and decreasing transaction failures, optimizing the website’s payment system for improved functionality.  
+- Tuned **Microsoft SQL Server** queries through execution plan analysis and restructuring, enabling faster processing of large-scale datasets and improving the performance of complex reporting pipelines.  
 
 ---
 
