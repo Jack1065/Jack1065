@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to <span style="color:#4F46E5;">Jack Kurtz</span>' GitHub</h1>
 
 <p align="center">
-  <b>Software Engineer</b> | <b>Data Scientist</b> | <b>Full-Stack Developer</b><br>
+  <b>AI Engineer</b> | <b>Software Engineer</b> | <b>Data Scientist</b><br>
   <i>Building intelligent, data-driven, and scalable solutions</i>
 </p>
 
@@ -9,42 +9,50 @@
 
 ## 🧑‍💻 About Me
 
-Hello! I'm **Jack Kurtz**, a passionate **software engineer** and **data science graduate student** at the **University of Arizona**, with a background in **computer science and web application development**.  
+Hello! I'm **Jack Kurtz**, a passionate **AI engineer** and **data science graduate student** at the **University of Arizona**, with a background in **Agentic application development**.  
 
-I love creating high-impact software that blends **intelligent analytics**, **clean design**, and **robust architecture** — from healthcare applications to AI-driven research tools.  
-
+I love creating high-impact software that blends **intelligent automation**, **clean design**, and **robust architecture** — from healthcare applications to AI-driven enterprise solutions.  
 
 ---
 
 ## 🎓 Education
 
 📘 **University of Arizona** — *Tucson, AZ*  
-🎓 *Master of Science in Data Science* — *Expected May 2027*  
+🎓 *Master of Science in Data Science (Part-Time)* — *Expected May 2028*  
 
 💻 **University of Wisconsin–Whitewater** — *Whitewater, WI*  
 🧩 *Bachelor of Science in Computer Science, Minor in Web Application Development* — *May 2025*  
-- **Honors:** Dean’s List (2021–2025), Glenn R. Davis Scholarship (2021)  
+- **Honors:** Dean's List (2021–2025), Glenn R. Davis Scholarship (2021)  
 - **GPA:** 3.75  
 
 ---
 
 ## 💼 Professional Experience
 
+### 🤖 AI Engineer — ICA Holdings  
+*Jan 2026 – Present · Tucson, AZ*  
+- Built agentic pipelines leveraging **Azure AI Document Intelligence** and **Azure AI Foundry** LLM deployments to fully automate invoice, shipment, and sales order entry, eliminating manual data processing, saving over **400 labor hours per year**.  
+- Architected end-to-end **Azure** cloud and **Epicor ERP** integrations enabling real-time order synchronization and operational monitoring across business workflows.  
+- Delivered secure full-stack internal applications with **React** frontends and **.NET** backends, enforcing role-based access via **Microsoft Entra**.  
+- Designed serverless **Azure Function Apps** to power scalable document processing, data validation, and automation pipelines.  
+
+---
+
 ### 🧠 Software Development Intern — Clinisys  
 *May 2025 – August 2025 · Tucson, AZ*  
-- Engineered new features for **SaaS LIMS/LMS healthcare systems**, streamlining workflows for national healthcare providers.  
+- Engineered new features for **SaaS LIMS healthcare systems**, streamlining workflows for national healthcare providers.  
 - Optimized **Power BI** dashboards, reducing load times by **30%**.  
 - Increased backend **.NET Core** test coverage by **20%** through structured unit testing.  
-- Built **React + TypeScript** interfaces aligned with **Figma** designs to improve UX consistency.  
+- Translated **Figma** designs into pixel-accurate **React, Redux, and TypeScript** components, improving UX consistency.  
 
 ---
 
 ### ⚙️ Software Engineer Intern — Root River Co-Work  
 *May 2023 – August 2024 · Racine, WI*  
-- Developed and deployed a scalable **API service** using **Azure Cloud** and DevOps pipelines, resulting in a **40% improvement in deployment efficiency**.  
-- Optimized **React and TypeScript frontend**, reducing bundle size by **30%** and improving page load speed by **35%**.  
-- Facilitated the seamless transition to a new **payment provider API**, reducing payment processing time and decreasing transaction failures, optimizing the website’s payment system for improved functionality.  
-- Tuned **Microsoft SQL Server** queries through execution plan analysis and restructuring, enabling faster processing of large-scale datasets and improving the performance of complex reporting pipelines.  
+- Developed and deployed multiple scalable **.NET API services** with **Azure DevOps** pipelines.  
+- Optimized **React and TypeScript** frontend, reducing bundle size by **30%** and improving page load speed by **35%**.  
+- Led migration to a new **payment provider API**, reducing transaction failures and improving payment processing reliability.  
+- Tuned **Microsoft SQL Server** queries through execution plan analysis, enabling faster processing of large-scale datasets and improving complex reporting pipeline performance.  
 
 ---
 
@@ -60,7 +68,7 @@ I love creating high-impact software that blends **intelligent analytics**, **cl
 ### 🧬 **Biomarker Classification Model**
 **Tech:** `Python` · `TensorFlow` · `Keras` · `ResNet-34`  
 
-- Built a **deep learning classifier** to detect **Glioblastoma biomarkers** in MRI scans with **92% accuracy**.  
+- Built a **deep learning classifier** to detect **Glioblastoma biomarkers** in MRI scans, achieving **92% accuracy**.  
 - Utilized **TCGA-GBM** dataset with extensive **data augmentation** to improve robustness.  
 - Evaluated using **precision, recall, F1-score, and ROC-AUC**, demonstrating clinical-grade predictive reliability.  
 
@@ -77,26 +85,32 @@ I love creating high-impact software that blends **intelligent analytics**, **cl
   <img src="https://img.shields.io/badge/Language-SQL-green?style=flat-square"/>
 </p>
 
+**AI & ML**  
+`Azure AI Foundry` · `Azure AI Document Intelligence` · `TensorFlow` · `PyTorch` · `Pandas` · `scikit-learn`
+
 **Frameworks & Libraries**  
-`React` · `Node.js` · `Express` · `.NET Core` · `Django` · `Vue.js` · `Tailwind CSS` · `TensorFlow` · `PyTorch` · `scikit-learn`
+`React` · `Redux` · `Node.js` · `Express` · `.NET Core` · `EF Core` · `Django` · `Vue.js` · `Tailwind CSS`
 
-**Tools & Platforms**  
-`AWS` · `Azure` · `Docker` · `Jenkins` · `GitHub` · `GitLab` · `Snowflake` · `MongoDB` · `PostgreSQL` · `Tableau` · `Power BI`
+**Cloud & Infrastructure**  
+`Azure` · `Azure Function Apps` · `Docker` · `Terraform` · `Bicep`
 
-**Other Expertise**  
-`Big Data Analytics` · `ETL Workflows` · `Agile Development` · `SEO Optimization` · `Web Accessibility` · `PHI & HIPAA Compliance`
+**Data & Analytics**  
+`Cosmos DB` · `Snowflake` · `PostgreSQL` · `MSSQL` · `MongoDB` · `Power BI` · `Tableau` · `Qlik`
+
+**Enterprise & DevOps**  
+`Epicor ERP` · `Power Automate` · `Azure Logic Apps` · `GitHub Actions CI/CD` · `Jenkins` · `Jira` · `Postman`
 
 ---
 
 ## 🏆 Honors & Achievements
 
-🏅 **Dean’s List (2021–2025)**  
+🏅 **Dean's List (2021–2025)**  
 🎓 **Glenn R. Davis Scholarship (2021)**  
 📊 **3.75 GPA** — Bachelor of Science in Computer Science  
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:Jkurtz354@gmail.com"><img src="https://img.shields.io/badge/Email-Jkurtz354%40gmail.com-red?style=flat-square&logo=gmail"></a>
