@@ -26,12 +26,7 @@ Hello! I'm **Jack Kurtz**, an **AI Engineer** with a background in **Computer Sc
 
 ### 🤖 AI Engineer — ICA Holdings
 *Jan 2026 – Present · Tucson, AZ*
-- Architected an AP invoice automation pipeline using **Azure Durable Functions**, **Service Bus**, and **Azure Document Intelligence** integrated with **Azure AI Foundry**, eliminating **2,700 manual entry hours annually** across 4 business divisions, supported by a full-stack **React** and **.NET** application provisioned via **Terraform IaC**.
-- Proposed and developed a hybrid cloud deployment architecture with **GitHub Actions** CI/CD pipelines publishing container images to **Azure Container Registry**, and configured an on-prem **IIS** server as a reverse proxy, enabling consistent, automated deployments across on-premises infrastructure.
-- Architected a hub-and-spoke network topology using **Azure VNet** with a site-to-site VPN gateway, peering spoke VNets to a central hub and securing provisioned Azure resources through private endpoints to eliminate public internet exposure.
-- Automated Advanced Shipment Notice processing by integrating **Azure Document Intelligence** into a **Durable Functions** pipeline with custom multi-carrier tracking endpoints, saving **260 manual entry hours per year**.
-- Built a Bill of Materials extraction tool for wire harness engineering drawings using **Azure Content Understanding** to automate schematic data capture and cross-reference against **Epicor ERP**, delivered through a full-stack **React** and **FastAPI** application.
-
+I design and ship AI-powered software solutions across a hybrid Azure architecture — including agentic pipelines, document-processing systems, and full-stack applications integrated with Epicor ERP.
 ---
 
 ### 🧠 Software Development Intern — Clinisys
