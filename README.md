@@ -27,6 +27,7 @@ Hello! I'm **Jack Kurtz**, an **AI Engineer** with a background in **Computer Sc
 ### 🤖 AI Engineer — ICA Holdings
 *Jan 2026 – Present · Tucson, AZ*
 I design and ship AI-powered software solutions across a hybrid Azure architecture — including agentic pipelines, document-processing systems, and full-stack applications integrated with Epicor ERP.
+
 ---
 
 ### 🧠 Software Development Intern — Clinisys
